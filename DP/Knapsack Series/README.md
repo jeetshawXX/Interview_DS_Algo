@@ -37,5 +37,18 @@
 				    <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Knapsack%20Series/0%20-%201%20Knapsack%20Problem%20Space%20Optimised.cpp"> 0 - 1 Knapsack Problem Space Optimised</a>
 			</td>
     	</tr>
+		<tr>
+			<td>
+				    <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Knapsack%20Series/Subset%20Sum%20Problem.cpp"> Subset Sum Problem </a>
+			</td>
+    	</tr>
 	</tbody>
 </table>
+
+---
+
+<div align="center">
+
+*Made with ❤️ by [@MIK](https://github.com/MAZHARMIK)*
+
+</div>
