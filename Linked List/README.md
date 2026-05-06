@@ -235,8 +235,13 @@
 				</td>
 			</tr>
 			<tr>
-        			<td>
+        		<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Leetcode%20Easy/Plus%20One.cpp"> Plus One (Leetcode - 66)</a>
+				</td>
+			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Rotate%20List.cpp"> Rotate List (Leetcode - 61)</a>
 				</td>
 			</tr>
 		</tbody>
